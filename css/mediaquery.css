@@ -1,0 +1,221 @@
+@media screen and (min-width:768px) and (max-width:1024px){
+    .border-text {
+        width: 130px !important;
+        height: 130px !important;
+      
+    }
+    .border-text h3 {
+        left: -5% !important;
+        bottom: 32% !important;
+    }
+    .social h5 {
+        font-size: 14px;
+    }
+    .nav-2 a {
+        white-space: nowrap;
+        font-size: 0.6rem !important;
+    }
+    .cart {
+        margin-left: -0.6rem;
+    }
+    .carousel-item {
+        height: 100% !important;
+    }
+    .all-filters {
+        justify-content: space-between !important;
+    }
+    /* .all-filters {
+        display: block !important;
+    } */
+
+ }
+
+
+ @media only screen and (max-width: 600px) {
+    .nav-2 .active {
+        justify-content:  start !important;
+       
+    } 
+    
+    .nav-link::after {
+        border: none !important;
+    }
+    .slides .carousel-item {
+        position: relative;
+        height: 120%;
+    }
+    
+.slides .order {
+   
+    background-color: #32c5ff;
+    font-family: Helvetica;
+    font-size: 11px;
+    font-weight: bold;
+    width: 5.8rem;
+    height: 1.8rem;
+ 
+}
+
+header form {
+    margin: 1rem 0;
+}
+
+.filtrs {
+    margin: 0.3rem 0;
+}
+
+.product-image {
+    text-align: center !important;
+}
+
+.language {
+    display: block !important;
+}
+
+.dropdown-menu {
+
+
+    top: 1rem !important;
+    left: 0px !important;
+    width: 100.7% !important;
+    border: none !important;
+  }
+  .special-bg {
+      height: 11vh !important;
+  }
+  .special-title h4 {
+      font-size: 1.3rem;
+  }
+  .timer a {
+      font-size: 0.7rem;
+  }
+.card-holder {
+    margin: 0 !important;
+}
+.pro-qty {
+    width: 100% !important;
+}
+  .product__details__quantity .addcard {
+    width: 100%;
+    height: 49px;
+    border-radius: 7px;
+    background-color: #32a7ff;
+    margin: 0 !important;
+  }
+  .addcard-2 {
+    width: 100%;
+    height: 49px;
+    opacity: 0.26;
+    border-radius: 7px;
+    background-color: #f7b500;
+    
+  }
+
+  .head-category {
+      margin: 1.5rem 0;
+      text-align: center;
+  }
+  .special-title h4 {
+      font-size: 12.5px !important;
+  }
+  .timer a {
+      font-size: 12.5px !important;
+  }
+  /* .head-category h4 {
+      font-size: 15px !important;
+      white-space: nowrap;
+  } */
+
+  .total-amount h4 {
+      margin: 0 1rem !important;
+  }
+  .addcard-3 {
+    width: 100%;
+    height: 49px;
+    border-radius: 7px;
+    background-color: #32a7ff;
+
+  }
+  .addcard-4 {
+    width: 100%;
+    height: 49px;
+    border-radius: 7px;
+    background-color: rgba(247, 181, 0, 0.28);
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.04px;
+    color: #8c8c8c;
+  }
+ .body {
+     display: block !important;
+     
+ }
+ .body .price-side, .total-side {
+    text-align: center;
+    margin: 10px 0;
+ }
+ .body .circle-close {
+    margin: 10px auto;
+ }
+ .form-check {
+     margin: 1rem 0px !important;
+     padding: 0 !important;
+   
+ }
+ .checkboxes {
+     display: block !important;
+     margin-left: 1rem;
+ }
+
+ .resmilesdirme .pay {
+     display: block !important;
+ }
+ .right {
+     margin: 1rem 0;
+ }
+ .tehlukesiz-holder
+ {
+    border-left: none;
+ }
+
+ .vr {
+    width: 0px;
+    height: 0px;
+    border: none;
+   
+}
+
+.left-sidebar {
+    margin: 0 auto;
+
+}
+
+.select-2 {
+    display: flex;
+    justify-content: center;
+    align-self: start;
+}
+.arr {
+    right: 21% !important;
+}
+
+.modal .modal-body {
+    width: 100%;
+    height: 100%;
+    border-radius: 17px;
+    background-color: #ffffff;
+    
+}
+
+.modal-header .close {
+  
+    margin: 1rem -1rem -1rem auto !important;
+}
+.modal .modal-header {
+    border: none;
+    width: 100% !important;
+}
+}

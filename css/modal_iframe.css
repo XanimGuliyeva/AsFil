@@ -1,0 +1,27 @@
+.modal_iframe{
+    width: 95% !important;
+    height: 95vh !important;
+    left: 3% !important;
+}
+.modal_iframe-content{
+    width: 94% !important;
+    height: 94% !important;
+}
+
+.modal_iframe-body{
+    background: transparent !important;
+    padding: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+.modal_iframe-dialog{
+    width: 100% !important;
+    height: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    left: 0 !important;
+}
+.show{
+    width: 100% !important;
+    height: 100vh !important;
+}

@@ -1,0 +1,10 @@
+.conteynr{
+    width: 1024px !important;
+    margin-left: 300px !important;
+    margin-top: 75px;
+    position: relative !important;
+}
+.product-detail{
+    background-color: transparent !important;
+    width: 1024px !important;
+}
